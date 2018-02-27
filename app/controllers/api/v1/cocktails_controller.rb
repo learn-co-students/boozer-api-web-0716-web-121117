@@ -26,9 +26,9 @@ module Api
         render json: cocktail_json
       end
 
-      # def create
-      #   byebug
-      # end
+      def create
+        
+      end
 
       def edit
 
